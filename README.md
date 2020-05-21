@@ -25,7 +25,7 @@ The client is generally a low-cost retailer, offering many promotions and discou
 
  
  ## [Find the users focus](https://github.com/fayucci/my-projects/blob/master/Find_the_users_focus/mouse_streamplot.ipynb)
- In this notebook analized the use case for bivariate kernel density estimate in web analytics by gathering the mouse movements of few users we are able to determine where are the users moving their cursors. To display the heatmap of the cusor location we overlap the bivariate kernel density estimate plot with a screenshot of the studies web page. The data set is simulated. [Source: DataCamp]
+ In this notebook analized the use case for bivariate kernel density estimate in web analytics by gathering the mouse movements of few users we are able to determine where are the users moving their cursors. To display the heatmap of the cusor location we overlap the bivariate kernel density estimate plot with a screenshot of the studies web page. The data set is simulated.
 
  
  ## [The GitHub History of Scala](https://github.com/fayucci/my-projects/blob/master/The_GitHub_History_of_Scala/notebook_scale.ipynb)
