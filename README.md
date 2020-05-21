@@ -31,7 +31,7 @@ The client is generally a low-cost retailer, offering many promotions and discou
  ## [The GitHub History of Scala](https://github.com/fayucci/my-projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language/notebook_scale.ipynb)
  In this notebook, read in, clean up, and visualize the real world project repository of Scala that spans data from a version control. [Source: DataCamp]
  
- ## [Exploring the Super Bowl](https://github.com/fayucci/my-projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook_super_bowl.ipynb
+ ## [Exploring the Super Bowl](https://github.com/fayucci/my-projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook_super_bowl.ipynb)
 In this notebook, I found out how some of the elements of this show (Super Bowl) interact with each other. After exploring and cleaning the data a little, I'm going to answer questions like: What are the most extreme game outcomes?, How does the game affect television viewership? How have viewership, TV ratings, and ad cost evolved over time? and Who are the most prolific musicians in terms of halftime show performances? [Source: DataCamp]
  
  ## [The most use word in Moby Dick](https://github.com/fayucci/my-projects/blob/master/Word%20Frequency%20in%20Moby%20Dick/notebook_moby_dick.ipynb)
