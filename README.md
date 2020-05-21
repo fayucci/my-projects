@@ -1,4 +1,4 @@
-# My way in Data Science:
+# My way in to Data Science:
 
 ## [A Network Analysis of Game of Thrones](https://github.com/fayucci/my-projects/blob/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones/notebook_games_of_thrones.ipynb)
 In this notebook, I analyzed the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. [Source: DataCamp]
