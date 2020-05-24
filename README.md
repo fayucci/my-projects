@@ -1,5 +1,9 @@
 # My way in to Data Science:
 
+## [The left way to die](https://github.com/fayucci/my-projects/blob/master/The_left_way_to_die/notebook_left_handed.ipynb)
+A 1991 study reported that left-handed people die on average nine years earlier than right-handed people. Nine years! Could this really be true? 
+In this notebook, I explored this phenomenon using age distribution data to see for reproduced a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. This notebook uses pandas and Bayesian statistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed. This notebook uses two datasets: [death distribution data for the United States](https://www.cdc.gov/nchs/data/statab/vs00199_table310.pdf) from the year 1999 and rates of [left-handedness digitized](https://pubmed.ncbi.nlm.nih.gov/1528408/) from a figure in this 1992 paper by Gilbert and Wysocki. [Source: DataCamp]
+
 ## [A Network Analysis of Game of Thrones](https://github.com/fayucci/my-projects/blob/master/A_Network_Analysis_of_Game_of_Thrones/notebook_games_of_thrones.ipynb)
 In this notebook, I analyzed the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. [Source: DataCamp]
  
