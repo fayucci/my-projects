@@ -8,7 +8,7 @@ In this notebook, I explored this phenomenon using age distribution data to see 
 In this notebook, I analyzed the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. [Source: DataCamp]
 
 ## [Mind the ingredients of your cosmetics](https://github.com/fayucci/my-projects/blob/master/Mind_the_ingredients_of_your_cosmetics/notebook_cosmetics.ipynb)
- In this notebook, I created a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically, we will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh. [Source: Datacamp]
+ In this notebook, I created a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically,I processed ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh. [Source: Datacamp]
  
 ## [Data Analysis in Baseball](https://github.com/fayucci/my-projects/blob/master/Data_Analysis_in_Baseball/notebook_baseball.ipynb)
 Statcast is a high-speed, high-accuracy, automated tool developed to analyze player movements and athletic abilities in Major League Baseball (MLB), Statcast is a state-of-the-art tracking system that uses high-resolution cameras and radar equipment to measure the precise location and movement of baseballs and baseball players.
