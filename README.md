@@ -1,5 +1,9 @@
 # My way in to Data Science:
 
+## [Similarity of Charles Darwin's books](https://github.com/fayucci/my-projects/blob/master/Similarity_Charles_Darwin's_books/Charles_Darwin's_books.ipynb)
+Charles Darwin wrote a lot of books on a wide range of topics and in this project I found how closely related his books are to each other based on how similar the discussed topics are.
+I  first tokenized the corpus, then reduced inflected words to their word stem using a stemming process, then created a bag-of-words models (BoW) of each of our texts and then determined which tokens were the most specific to a book used a tf-idf model (term frequency–inverse document frequency) and last for measuring how related a book is to others I used a cosine similarity and visualized the results of a distance matrix as a dendrogram. [Source: DataCamp]
+
 ## [The left way to die](https://github.com/fayucci/my-projects/blob/master/The_left_way_to_die/notebook_left_handed.ipynb)
 A 1991 study reported that left-handed people die on average nine years earlier than right-handed people. Nine years! Could this really be true? 
 In this notebook, I explored this phenomenon using age distribution data to see for reproduced a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. This notebook uses pandas and Bayesian statistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed. This notebook uses two datasets: [death distribution data for the United States](https://www.cdc.gov/nchs/data/statab/vs00199_table310.pdf) from the year 1999 and rates of [left-handedness digitized](https://pubmed.ncbi.nlm.nih.gov/1528408/) from a figure in this 1992 paper by Gilbert and Wysocki. [Source: DataCamp]
