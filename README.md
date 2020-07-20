@@ -14,6 +14,15 @@ In this notebook, I analyzed the co-occurrence network of the characters in the 
 ## [Mind the ingredients of your cosmetics](https://github.com/fayucci/my-projects/blob/master/Mind_the_ingredients_of_your_cosmetics/notebook_cosmetics.ipynb)
  In this notebook, I created a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically,I processed ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh. [Source: Datacamp]
  
+## [Analizing Twitter Data]()
+Twitter is a rich source for any data scientist, in this opportunity I did a thorough analysis of trends in Twitter.
+I learned about the  big waves of thoughts and moods around the world. I focused on topics that were trending worldwide (WW) and in the United States (US).
+The good news is that Twitter has its own API to collect data (I did not do this in this notebook).
+After exploring the data, I compared the two sets of trends(WW and US), and I found one common trend that looked interesting, #WeLoveTheEarth, I focused on the tweets containing this hashtag, using the text, user names and hashtags can be inferred they were referring to a song about loving the Earth. 
+To measure a tweet's popularity I used the retweet count and favorite count fields and visualized them in a DataFrame.
+Finally from the text of the tweets, I could see different languages, so I created a frequency distribution for the languages, we observed  that most of the tweets were in English, there were a lot of tweets in an unknown language ('und'), Polish, Italian and Spanish were the next most frequently used language. [Source: DataCamp]
+
+ 
 ## [Data Analysis in Baseball](https://github.com/fayucci/my-projects/blob/master/Data_Analysis_in_Baseball/notebook_baseball.ipynb)
 Statcast is a high-speed, high-accuracy, automated tool developed to analyze player movements and athletic abilities in Major League Baseball (MLB), Statcast is a state-of-the-art tracking system that uses high-resolution cameras and radar equipment to measure the precise location and movement of baseballs and baseball players.
 In this notebook, I wrangled, analyzed, and visualized Statcast data to compare Mr. Judge and another (extremely large) teammate of his. [Source: DataCamp]
