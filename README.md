@@ -14,7 +14,7 @@ In this notebook, I analyzed the co-occurrence network of the characters in the 
 ## [Mind the ingredients of your cosmetics](https://github.com/fayucci/my-projects/blob/master/Mind_the_ingredients_of_your_cosmetics/notebook_cosmetics.ipynb)
  In this notebook, I created a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically,I processed ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh. [Source: Datacamp]
  
-## [Analizing Twitter Data]()
+## [Analizing Twitter Data](https://github.com/fayucci/my-projects/blob/master/Analizing_Twitter_data/Twitter.ipynb)
 Twitter is a rich source for any data scientist, in this opportunity I did a thorough analysis of trends in Twitter.
 I learned about the  big waves of thoughts and moods around the world. I focused on topics that were trending worldwide (WW) and in the United States (US).
 The good news is that Twitter has its own API to collect data (I did not do this in this notebook).
