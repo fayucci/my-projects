@@ -1,4 +1,4 @@
-# My way in to Data Science:
+# My way into Data Science:
 
 ## [Similarity of Charles Darwin's books](https://github.com/fayucci/my-projects/blob/master/Similarity_Charles_Darwin's_books/Charles_Darwin's_books.ipynb)
 Charles Darwin wrote a lot of books on a wide range of topics and in this project I found how closely related his books are to each other based on how similar the discussed topics are.
